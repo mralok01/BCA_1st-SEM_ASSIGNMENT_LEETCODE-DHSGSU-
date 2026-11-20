@@ -6,14 +6,15 @@ A collection of 10 LeetCode problems solved using C programming as part of my BC
 
 ## About Me
 
-**Name:** Alok Kumar  
+**Name:** Alok Kumar
+**Roll Number:** Y26170504
 **Course:** BCA – 1st Semester  
 **Department:** Computer Science and Applications  
 **University:** Dr. Harisingh Gour Vishwavidyalaya, Sagar
 
 ## LeetCode Profile
 
-**LeetCode Profile:** [Visit My LeetCode Profile](PASTE_YOUR_PROFILE_LINK_HERE)
+**LeetCode Profile:** [Visit My LeetCode Profile](https://github.com/mralok01)
 
 ## Problems Solved
 
